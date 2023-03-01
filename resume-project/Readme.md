@@ -1,17 +1,17 @@
 # HTML
-[label](https://www.w3schools.com/html/)
+(https://www.w3schools.com/html/)
 
 ## CSS
-[label](https://www.w3schools.com/css/)
+(https://www.w3schools.com/css/)
 
 ## Javascript
-[label](https://www.javascript.com/)
+(https://www.javascript.com/)
 
 ## Boostrap
 (https://www.bootstrapcdn.com/)
 
 ## FontAwsome
-[label](https://fontawesome.com/)
+(https://fontawesome.com/)
 
 ## License
 
